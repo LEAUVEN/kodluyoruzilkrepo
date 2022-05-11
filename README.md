@@ -13,5 +13,5 @@ Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 License
-MIT (C:\Users\flkil\Documents\GitHub\kodluyoruzilkrepo\LICENSE)
-Patika.dev internet sitesi linki(https://choosealicense.com/licenses/mit/)
+MIT (https://choosealicense.com/licenses/mit/ "MIT")
+Patika.dev internet sitesi linki (https://app.patika.dev "PATIKA.DEV")
