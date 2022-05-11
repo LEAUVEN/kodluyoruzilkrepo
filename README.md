@@ -1,3 +1,6 @@
+![Ilk deneme](C:\Users\flkil\Documents\dadade.jpg "41")
+
+
 ## Installation ##
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
