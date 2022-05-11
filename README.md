@@ -12,7 +12,6 @@ code .
 Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-License 
-[https://choosealicense.com/licenses/mit/] ("MIT")
-[https://app.patika.dev] ("Patika.dev")
-[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
+License
+[MIT](https://choosealicense.com/licenses/mit/ "MIT LICENSE") 
+[Patika.Dev](https://app.patika.dev "Patika.dev Anasayfa")
