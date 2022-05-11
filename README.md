@@ -1,4 +1,7 @@
+# Kodluyoruz Ilk Repo #
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![Ilk deneme](https://github.com/itu-itis21-gursu20/Patika.dev-kodluyoruzilkrepo/blob/main/github.png)
+
 
 
 ## Installation ##
