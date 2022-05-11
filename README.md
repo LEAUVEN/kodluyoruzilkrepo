@@ -1,4 +1,4 @@
-![Ilk deneme](C:\Users\flkil\Documents\dadade.jpg "41")
+![Ilk deneme](https://github.com/itu-itis21-gursu20/Patika.dev-kodluyoruzilkrepo/blob/main/github.png)
 
 
 ## Installation ##
