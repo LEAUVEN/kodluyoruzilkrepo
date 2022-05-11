@@ -13,6 +13,5 @@ Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 License
-MIT
-
+MIT [I'm a relative reference to a repository file](C:\Users\flkil\Documents\GitHub\kodluyoruzilkrepo\LICENSE)
 Patika.dev internet sitesi linki
