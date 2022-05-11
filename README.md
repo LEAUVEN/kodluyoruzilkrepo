@@ -15,3 +15,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 License 
 [https://choosealicense.com/licenses/mit/] ("MIT")
 [https://app.patika.dev] ("Patika.dev")
+[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
